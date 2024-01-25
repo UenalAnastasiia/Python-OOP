@@ -1,0 +1,7 @@
+# + __add__(self, other)
+# - __sub__(self, other)
+# * __mul__(self, other)
+# / __truediv__(self, other)
+# == __eq__(self, other)
+# < __lt__(self, other)
+# > __gt__(self, other)
